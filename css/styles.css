@@ -5,7 +5,25 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
-
+.button{
+  color:white;
+  border-color: white;
+}
+.button:hover{
+  color: gray;
+  border-color: white;
+  background-color: white;
+}
+.footer{
+  background-color:rgb(255, 191, 128);
+  margin-top: 20px; 
+}
+.search{
+  border-color: white;
+}
+.search:hover{
+  border-color: white;
+}
 .giannis-btn{
   background-color: rgb(179, 89, 0);
   border-color: rgb(179, 89, 0);
@@ -14,7 +32,7 @@ body {
   background-color: rgb(153, 77, 0);
   border-color: rgb(153, 77, 0);
 }
-.mainmenu{
+.menu{
   background-color: rgb(255, 191, 128);
 }
 .logolink{
