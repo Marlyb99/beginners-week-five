@@ -20,6 +20,7 @@
   border-color: white;
   background-color: white;
 }
+
 .break:hover{
   background-color: gray;
 }
@@ -190,6 +191,7 @@ a {
 .page{
   border-color: white;
   color: white;
+  margin-top: 40px;
 }
 .page:hover{
   background-color:white;
@@ -201,4 +203,8 @@ a {
 }
 .blog1{
   color: black; 
+}
+.text{
+  margin-top: 40px;
+  margin-left: 20px;
 }
