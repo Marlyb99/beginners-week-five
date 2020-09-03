@@ -1,22 +1,60 @@
-body {
-  padding-top: 5rem;
-}
+
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+.space{
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.space1{
+  margin-bottom: 50px;
+}
 .button{
   color:white;
   border-color: white;
+
 }
 .button:hover{
   color: gray;
   border-color: white;
   background-color: white;
 }
+.break:hover{
+  background-color: gray;
+}
+.break{
+  background-color: gray;
+}
+.up{
+  margin-top: 20px;
+}
+.one{
+  margin-top: 20px;
+}
 .footer{
   background-color:rgb(255, 191, 128);
-  margin-top: 20px; 
+  margin-top: 30px; 
+}
+.links{
+  color: white;
+}
+.link{
+  color:Gray;
+}
+.link:hover{
+  color:Gray;
+}
+.links:hover{
+  color: white;
+}
+.submit{
+  background-color:rgb(179, 89, 0);
+  border-color:rgb(179, 89, 0);
+}
+.submit:hover{
+  background-color:rgb(153, 77, 0);
+  border-color:rgb(153, 77, 0);
 }
 .search{
   border-color: white;
@@ -146,3 +184,21 @@ a {
 
  ul li ul li a { transition: all 0.5s ease; }
 
+.car{
+  margin-top: 30px;
+}
+.page{
+  border-color: white;
+  color: white;
+}
+.page:hover{
+  background-color:white;
+  color: gray;
+  border-color:white;
+}
+.blog{
+  background-color:rgb(255, 191, 128);
+}
+.blog1{
+  color: black; 
+}
